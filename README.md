@@ -18,7 +18,7 @@ I am a passionate beginner developer focused on building clean, accessible, and 
 
 **RESONA** is a web-based project where I applied my knowledge of modern CSS3 and semantic HTML5. 
 
-- **The Goal:** [Add a short goal, e.g., To create a high-performance minimalist interface].
+- **The Goal:** [To create a high performative minimalistic interface].
 - **Key Features:** Fully responsive layout, custom CSS animations, and Brittany Chiang-inspired UI components.
 - **Tech Used:** HTML5, CSS3 (Custom Properties & Flexbox).
 
