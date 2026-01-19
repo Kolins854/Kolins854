@@ -6,7 +6,7 @@ I am a passionate beginner developer focused on building clean, accessible, and 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Languages:** HTML5, CSS3, JavaScript (Learning)
 - **Frameworks/Styles:** Flexbox, CSS Grid, Responsive Design
@@ -14,7 +14,7 @@ I am a passionate beginner developer focused on building clean, accessible, and 
 
 ---
 
-## 🌟 Featured Project: RESONA
+##  Featured Project: RESONA
 
 **RESONA** is a web-based project where I applied my knowledge of modern CSS3 and semantic HTML5. 
 
@@ -22,11 +22,11 @@ I am a passionate beginner developer focused on building clean, accessible, and 
 - **Key Features:** Fully responsive layout, custom CSS animations, and Brittany Chiang-inspired UI components.
 - **Tech Used:** HTML5, CSS3 (Custom Properties & Flexbox).
 
-👉 [**View Repository**](https://github.com/Kolins854/RESONA) | [**Live Demo**](https://Kolins.github.io/RESONA)
+ [**View Repository**](https://github.com/Kolins854/RESONA) | [**Live Demo**](https://Kolins.github.io/RESONA)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
 https://github-readme-stats.vercel.app/api?username=Kolins854&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
@@ -35,7 +35,7 @@ https://github-readme-stats.vercel.app/api?username=Kolins854&show_icons=true&th
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - **Portfolio:** [https://Kolins854.github.io/Prime/index.html]
 - **Email:** [njengarobin15@gmail.com]
