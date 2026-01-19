@@ -29,19 +29,20 @@ I am a passionate beginner developer focused on building clean, accessible, and 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+https://github-readme-stats.vercel.app/api?username=Kolins854&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- **Portfolio:** [http://127.0.0.1:5500/Prime/index.html]
+- **Portfolio:** [https://Kolins854.github.io/Prime/index.html]
 - **Email:** [njengarobin15@gmail.com]
-- **LinkedIn:** [Robinson Collins Njenga]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/robinson-collins-njenga/)
 
-*"Building the web one `<div>` at a time."*## Hi there 
+
+*"Building the web one `<div>` at a time." 
 
 <!--
 **Kolins854/Kolins854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
